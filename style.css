@@ -10,13 +10,13 @@ p{
     color:azure;
     padding: 5px;
 }
-#p1{
-    color: darkslategray;
+#p2{
+    color: rgb(185, 213, 213);
 }
 #headbox{
     background-color: #4d58a3;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 10px;
     padding-bottom: 10px;
     position: sticky;
