@@ -14,11 +14,15 @@ p{
     color: darkslategray;
 }
 #headbox{
-    background-color: burlywood;
-    padding-left: 5%;
-    padding-right: 5%;
+    background-color: #4d58a3;
+    padding-left: 15%;
+    padding-right: 15%;
     padding-top: 10px;
     padding-bottom: 10px;
     position: sticky;
     top: 0px;
+}
+#txtbox{
+    font-family: sans-serif;
+    margin-left: 5%;
 }
