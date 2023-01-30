@@ -1,14 +1,24 @@
 body{
-    background-color: blueviolet;
+    background-color: #708bd4;
+    margin: 0px;
 }
 h1{
     color:aliceblue;
     font-family: "Josefin Sans";
 }
 p{
-    background-color:aqua;
     color:azure;
+    padding: 5px;
 }
 #p1{
     color: darkslategray;
+}
+#headbox{
+    background-color: burlywood;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0px;
 }
