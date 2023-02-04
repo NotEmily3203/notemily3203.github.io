@@ -1,28 +1,31 @@
 body{
-    background-color: #708bd4;
-    margin: 0px;
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701411515.jpg");
+    background-size: cover;
+    margin-top: 80px;
+    padding: 30px;
 }
-h1{
-    color:aliceblue;
-    font-family: "Josefin Sans";
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
 }
-p{
-    color:azure;
-    padding: 5px;
+header * {
+    display: inline;
 }
-#p2{
-    color: rgb(185, 213, 213);
+header li {
+    margin: 20px;
 }
-#headbox{
-    background-color: #4d58a3;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    position: sticky;
-    top: 0px;
+header li a {
+    color: black;
+    text-decoration: none;
 }
-#txtbox{
-    font-family: sans-serif;
-    margin-left: 5%;
+main{
+    color: aliceblue;
 }
