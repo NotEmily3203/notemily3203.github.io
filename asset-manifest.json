@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15a17edf.css",
+    "main.js": "/static/js/main.eb0ac7dd.js",
+    "static/media/night_sky1.jpg": "/static/media/night_sky1.f12c19e5e7b10c3d7fba.jpg",
+    "static/media/nyc_skyline2.png": "/static/media/nyc_skyline2.383ceab330179f2008b9.png",
+    "index.html": "/index.html",
+    "main.15a17edf.css.map": "/static/css/main.15a17edf.css.map",
+    "main.eb0ac7dd.js.map": "/static/js/main.eb0ac7dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a17edf.css",
+    "static/js/main.eb0ac7dd.js"
+  ]
+}
